@@ -1,4 +1,4 @@
-# DomoPhone на Raspberry PI 4
+# Server на Raspberry PI 3
 
 ## Установка статического IP
 
